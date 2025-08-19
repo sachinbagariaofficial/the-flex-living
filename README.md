@@ -15,8 +15,6 @@ This project integrates with a custom backend (Express + MongoDB) to provide fea
 
 ![Mobile View](/public/images/mobile.png)
 
-_(Make sure to put your screenshots inside `/public/images/` with the above filenames or update the paths accordingly.)_
-
 ---
 
 ## 🛠️ Tech Stack
@@ -26,7 +24,7 @@ _(Make sure to put your screenshots inside `/public/images/` with the above file
 - [Next.js 14](https://nextjs.org/) (App Router)
 - [React 18](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Framer Motion](https://www.framer.com/motion/)
+
 
 **Backend:**
 
@@ -46,6 +44,6 @@ _(Make sure to put your screenshots inside `/public/images/` with the above file
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flex-living.git
+git clone https://github.com/sachinbagariaofficial/the-flex-living.git
 cd flex-living
 ```
