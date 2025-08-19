@@ -41,9 +41,12 @@ This project integrates with a custom backend (Express + MongoDB) to provide fea
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Clone & install the Repository
 
 ```bash
 git clone https://github.com/sachinbagariaofficial/the-flex-living.git
 cd flex-living
+npm install
+# or
+yarn install
 ```
